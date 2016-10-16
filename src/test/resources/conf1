@@ -1,0 +1,15 @@
+misc:
+    dindex:
+        name: twitter
+        as: kodcu
+    ctype:
+        name: tweets
+        as: tweets
+    batch: 300
+#    direction: me
+mongo:
+    host: mongo
+    port: 27017
+elastic:
+    host: es
+    port: 9300
